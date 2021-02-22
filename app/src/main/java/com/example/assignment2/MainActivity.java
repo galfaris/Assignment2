@@ -34,7 +34,4 @@ public class MainActivity extends AppCompatActivity {
    private void sendData(String s) {
        t.setText("Hello, " + s);
    }
-
-
-
 }
